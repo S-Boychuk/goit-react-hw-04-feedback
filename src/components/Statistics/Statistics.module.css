@@ -1,0 +1,11 @@
+.statistics-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+}
+
+.statistics-item {
+  font-weight: 600;
+  text-transform: capitalize;
+}
